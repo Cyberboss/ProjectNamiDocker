@@ -1,6 +1,6 @@
 # Project Nami Docker
 
-- Project Nami Version: 1.9.8
+- Project Nami Version: 2.0.2
 - PHP Version: 7.1
 
 Usage:
