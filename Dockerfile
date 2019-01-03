@@ -6,7 +6,7 @@ RUN apk add git
 
 RUN git init \
     && git remote add origin https://github.com/ProjectNami/projectnami \
-    && git fetch --depth 1 origin 1.9.8 \
+    && git fetch --depth 1 origin 2.0.2 \
     && git checkout FETCH_HEAD \
     && rm -rf .git
 
